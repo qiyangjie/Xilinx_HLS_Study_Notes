@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<EDKSYSTEM EDWVERSION="1.2" TIMESTAMP="Tue Jun 29 21:25:44 2021" VIVADOVERSION="2020.2">
+<EDKSYSTEM EDWVERSION="1.2" TIMESTAMP="Thu Jul 22 11:37:26 2021" VIVADOVERSION="2020.2">
 
   <SYSTEMINFO ARCH="zynquplus" BOARD="xilinx.com:zcu104:part0:1.1" DEVICE="xczu7ev" NAME="tutorial_2" PACKAGE="ffvc1156" SPEEDGRADE="-2"/>
 
@@ -523,7 +523,7 @@
         </BUSINTERFACE>
       </BUSINTERFACES>
     </MODULE>
-    <MODULE COREREVISION="2106292115" FULLNAME="/const_multiply/multiply" HWVERSION="1.0" INSTANCE="const_multiply_multiply" IPTYPE="PERIPHERAL" IS_ENABLE="1" MODCLASS="PERIPHERAL" MODTYPE="mult_constant" VLNV="xilinx.com:hls:mult_constant:1.0">
+    <MODULE COREREVISION="2107221127" FULLNAME="/const_multiply/multiply" HWVERSION="1.0" INSTANCE="const_multiply_multiply" IPTYPE="PERIPHERAL" IS_ENABLE="1" MODCLASS="PERIPHERAL" MODTYPE="mult_constant" VLNV="xilinx.com:hls:mult_constant:1.0">
       <DOCUMENTS/>
       <ADDRESSBLOCKS>
         <ADDRESSBLOCK ACCESS="read-write" INTERFACE="s_axi_control" NAME="Reg" RANGE="65536" USAGE="register">
@@ -2218,7 +2218,7 @@
         <PERIPHERAL INSTANCE="const_multiply_multiply"/>
       </PERIPHERALS>
     </MODULE>
-    <MODULE COREREVISION="2106292115" FULLNAME="/old_add" HWVERSION="1.0" INSTANCE="old_add" IPTYPE="PERIPHERAL" IS_ENABLE="1" MODCLASS="PERIPHERAL" MODTYPE="add" VLNV="xilinx.com:hls:add:1.0">
+    <MODULE COREREVISION="2107221126" FULLNAME="/old_add" HWVERSION="1.0" INSTANCE="old_add" IPTYPE="PERIPHERAL" IS_ENABLE="1" MODCLASS="PERIPHERAL" MODTYPE="add" VLNV="xilinx.com:hls:add:1.0">
       <DOCUMENTS/>
       <ADDRESSBLOCKS>
         <ADDRESSBLOCK ACCESS="read-write" INTERFACE="s_axi_control" NAME="Reg" RANGE="65536" USAGE="register">
